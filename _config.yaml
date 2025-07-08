@@ -1,0 +1,12 @@
+title: Ga Language Learning Material Archive
+description: An archive of books and texts to learn the Ga language of Ghana.
+
+# https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+# https://github.com/pages-themes/leap-day
+remote_theme: jekyll-theme-leap-day
+
+show_downloads: false  
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
